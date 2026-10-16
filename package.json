@@ -1,0 +1,13 @@
+{
+  "name": "investgrow-email",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "resend": "^4.7.0"
+  }
+}
